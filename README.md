@@ -1,6 +1,7 @@
-
 ## Genshin Impact Codebreaking
 
 Things decoded:
 
-1. Hu
+| Ciphers | Result                                                            |
+| :------ | :---------------------------------------------------------------- |
+| Hu      | For the nation, we can't forgo this skyborne power, but we failed |
